@@ -3,6 +3,8 @@
 *.o
 *.so
 *~
+*.swp
+build
 /Makefile
 /autom4te.cache
 /config.log
